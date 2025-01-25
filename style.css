@@ -1,0 +1,35 @@
+* {
+  font-size: 2rem;
+}
+
+button{
+  height: 4rem;
+  padding: 0.5rem;
+}
+
+button:hover{
+  cursor: pointer;
+}
+
+#subscribe-btn {
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 0.2rem;
+}
+
+#join-btn {
+  background-color: white;
+  color: rgb(6, 95, 212); 
+  border: 1px solid rgb(6, 95, 212);
+  margin: 0 0.5rem;
+}
+
+#tweet-btn {
+  background-color: rgb(29,155,240);
+  color: white;
+  border: none;
+  font-weight: bold;
+  border-radius: 2.5rem;
+  padding: 1rem;
+}
